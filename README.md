@@ -17,9 +17,9 @@ Avalaible controls within the Scene:
 
 - Camera Movement: W,A,S,D
 - Change Camera Speed: Q,E
-- Rotate Shell around designated axis (Toggle): X,Y,Z
-- Expand Shell (Toggle): F
-- Reset Shell: R
+- Rotate the Shell around designated axis (Toggle): X,Y,Z
+- Expand the Shell (Toggle): F
+- Reset the Shell: R
 - Fade out dark pixel (Toggle): O
 - Fade out Shell (Toggle): J (H_Beta), K (O_III)
 
