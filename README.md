@@ -1,5 +1,6 @@
-# unity_desktop
-Desktop Version for 3D Imaging for Nova Shells
+# Nova Shell via Unity
+
+Desktop Version for 3D Imaging of Nova Shells
 
 Used Packages:
 - Universal RP
